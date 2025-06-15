@@ -37,15 +37,10 @@ guessgame/
 ### Qualification to pass
 - The project has the correct directory structure (gameutils package with two modules).
 - All logic and helper functions are placed in the correct modules within the gameutils package.
-- The game runs successfully from main.py and allows the player to guess a number and return feedback.
-- Uses the random and math modules correctly 
-- The functions from custom modules are imported and used in the `main.py`.
-
-- The project has the correct directory structure (gameutils package with two modules).
-- All logic and helper functions are placed in the correct modules within the gameutils package.
 - The game runs successfully from `main.py`, allows the player to guess a number, and provides feedback.
 - The random and math modules are used correctly.
 - All the functions from custom modules are imported and used in `main.py`.
+
 
 ### Submission
 - Submit your project by sending the solution file via email.
